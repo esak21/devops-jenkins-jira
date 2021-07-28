@@ -3,7 +3,7 @@ node {
     def JIRA_SITE_NAME = 'jira'
     def JIRA_PROJ_NAME = 'SKYNET'
     
-    def GRADLE_HOME = tool name: 'gradle-4.10.2'
+    def GRADLE_HOME = tool name: 'grad'
     def REPO_URL = 'https://github.com/cloudacademy/devops-webapp.git'
     def DOCKERHUB_REPO = 'cloudacademydevops/webapp'
 
